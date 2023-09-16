@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Tes.md"
               }
             }
           }
@@ -170,7 +170,7 @@
   "active": "2f2702635cbdfa14",
   "lastOpenFiles": [
     "Ngampus/Matematika Komputasi S3.md",
-    "Untitled.md",
+    "Tes.md",
     "Ngampus/Perancangan Sistem S3.md",
     "Ngampus/Basis Data 27 Maret.md",
     "Hello World!.md",
