@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tes.md",
+                "file": "Ngampus/Matriks S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tes.md",
+                "file": "Ngampus/Matriks S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tes.md",
+                "file": "Ngampus/Matriks S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tes.md"
+                "file": "Ngampus/Matriks S3.md"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "2f2702635cbdfa14",
   "lastOpenFiles": [
-    "Ngampus/Matematika Komputasi S3.md",
     "Tes.md",
+    "Ngampus/Matriks S3.md",
+    "Ngampus/Matematika Komputasi S3.md",
     "Ngampus/Perancangan Sistem S3.md",
     "Ngampus/Basis Data 27 Maret.md",
     "Hello World!.md",
