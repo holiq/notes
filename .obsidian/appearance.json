@@ -3,5 +3,6 @@
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "FiraCode Nerd Font",
   "interfaceFontFamily": "FiraCode Nerd Font",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Minimal"
 }

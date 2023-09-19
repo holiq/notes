@@ -9,4 +9,5 @@ Contoh:
 A = { Jakarta, Manila, Bangkok } // himpunan ibu kota negara
 B = { Semarang, Bandung, Surabaya } // himpunan ibu kota provinsi di pulau jawa
 
+
 ### Preposisi
