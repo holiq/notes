@@ -159,7 +159,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,6 +169,8 @@
   },
   "active": "2f2702635cbdfa14",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
     "Tes.md",
     "Ngampus/Matriks S3.md",
     "Ngampus/Matematika Komputasi S3.md",
