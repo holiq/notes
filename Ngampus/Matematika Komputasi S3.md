@@ -11,3 +11,6 @@ B = { Semarang, Bandung, Surabaya } // himpunan ibu kota provinsi di pulau jawa
 
 
 ### Preposisi
+
+1. Fungsi Komposisi
+2. Relasi -> kofesien relasi/korelasi
