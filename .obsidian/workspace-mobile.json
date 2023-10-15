@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ngampus/Matematika Komputasi S3.md",
+                "file": "Element Toram.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3c8418023857589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task refactor.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "c2969202f418fc6d",
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ngampus/Matematika Komputasi S3.md",
+            "file": "Task refactor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ngampus/Matematika Komputasi S3.md",
+            "file": "Task refactor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ngampus/Matematika Komputasi S3.md"
+            "file": "Task refactor.md"
           }
         }
       }
@@ -132,15 +145,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "410ce25b4df9b057",
+  "active": "b3c8418023857589",
   "lastOpenFiles": [
+    "Element Toram.md",
+    "Task refactor.md",
+    "Untitled",
+    "Ngampus/Perancangan Sistem S3.md",
+    "Ngampus/Matematika Komputasi S3.md",
+    "Ngampus/Sistem Berkas S3.md",
+    "/Ngampus/Sistem Berkas S3.md",
+    "/Ngampus/Matematika Komputasi S3.md",
     "Context/spacesLastSync.log",
     "Context",
     "Ngampus/Basis Data 27 Maret.md",
-    "Ngampus/Perancangan Sistem S3.md",
     "Ngampus/Matriks S3.md",
-    "Ngampus/Matematika Komputasi S3.md",
-    "/Ngampus/Matriks S3.md",
-    "Tes.md"
+    "/Ngampus/Matriks S3.md"
   ]
 }

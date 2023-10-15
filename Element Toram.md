@@ -1,0 +1,11 @@
+- Monster Api (bow dte api, panah air)
+- Monster Air (bow dte air, panah angin)
+- Monster Angin (bow dte angin, panah bumi)
+- Monster Bumi (bow dte bumi, panah api)
+- Monster Cahaya (bow dte cahaya, panah gelap)
+- Monster Gelap (bow dte gelap, panah cahaya)
+
+- Angin lawan Air, jangan lawan Bumi
+- Air lawan Api, jangan lawan Angin
+- Api lawan Bumi, jangan lawan Air
+- Bumi lawan Angin, jangan lawan Api

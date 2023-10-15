@@ -1,0 +1,20 @@
+- [x] Installation
+- [ ] Application
+  - [ ] DataTransferObject
+  - [ ] Provider
+  - [ ] Request
+  - [ ] Resource
+- [x] Domain
+  - [x] Action
+  - [x] Enum
+  - [x] Exception
+  - [x] ValueObject
+- [ ] Infrastructure
+  - [ ] Builder
+  - [ ] Event
+  - [ ] Factory
+  - [ ] Listener
+  - [ ] Mail
+  - [ ] Model
+  - [ ] Observer
+  - [ ] Seeder

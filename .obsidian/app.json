@@ -22,5 +22,6 @@
     "command-palette:open",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
-  ]
+  ],
+  "promptDelete": false
 }
